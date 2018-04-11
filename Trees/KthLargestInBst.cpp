@@ -1,4 +1,4 @@
-/*Finding kth largest node using Morris traversal in constant space in a BST.
+/*Finding kth largest node using Morris traversal in constant space O(1) in a BST.
 ALGORITHM-
 
 1) Initialize Current as root.
