@@ -8,4 +8,4 @@ Articles which have been published on GeeksForGeeks -
 
 2)Reverse Morris Traversal and Threaded Trees-https://www.geeksforgeeks.org/reverse-morris-traversal-using-threaded-binary-tree/
 
-3)K'th Largest element in Binary Search Tree using O(1) Extra space-https://contribute.geeksforgeeks.org/?p=357888&preview=true.
+3)K'th Largest element in Binary Search Tree using O(1) Extra space-https://www.geeksforgeeks.org/kth-largest-element-bst-using-constant-extra-space/.
