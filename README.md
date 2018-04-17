@@ -1,6 +1,6 @@
 # GeeksForGeeks-Contributions
 
-This repository contains the list of my articles contributed on GeeksForGeeks on Data Structures and Algorithms.
+This is the repository which contains the list of my articles contributed on GeeksForGeeks on Data Structures and Algorithms.
 
 Articles which have been published on GeeksForGeeks -
 
