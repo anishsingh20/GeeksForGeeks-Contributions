@@ -1,4 +1,4 @@
-/* 
+/* Explained why morris traversal is more efficient memory wise
 Given two values n1 and n2 (where n1 < n2) and a root pointer to a Binary Search Tree. Print all the keys of tree in range n1 to n2. i.e. print all nodes n such that n1<=n<=n2 and n is a key of given BST. Print all the keys in increasing order.
 
 Now, to print keys of a BST within a range is quiet simple, by using a logic similar to inorder tree traversal which is demonstrated in Print BST keys in the given range. This technique uses recursion. Now recursion consumes O(n) extra space to maintain a recursion call stack. Hence this is where a technique which uses no Recursion or any stack or queue would be efficient memory wise.
