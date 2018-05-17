@@ -1,5 +1,12 @@
-//CPP code to print BST keys in given Range in constant memory O(1) using Morris traversal. 
-//Article submitted 
+/* 
+Given two values n1 and n2 (where n1 < n2) and a root pointer to a Binary Search Tree. Print all the keys of tree in range n1 to n2. i.e. print all nodes n such that n1<=n<=n2 and n is a key of given BST. Print all the keys in increasing order.
+
+Now, to print keys of a BST within a range is quiet simple, by using a logic similar to inorder tree traversal which is demonstrated in Print BST keys in the given range. This technique uses recursion. Now recursion consumes O(n) extra space to maintain a recursion call stack. Hence this is where a technique which uses no Recursion or any stack or queue would be efficient memory wise.
+
+Inorder traversal uses recursion or stack/queue which consumes O(n) space. But there is one efficient way to do inorder tree traversal using Morris Traversal which is based in Threaded Binary trees.Morris traversal uses no recursion or stack/queue and simply stores some important information in the wasted NULL pointers. Morris traversal consumes constant extra memory O(1) as it uses no recursion or stack/queue. Hence we will use Morris traversal to do inorder traversal in the algorithm presented in this tutorial to print keys of a BST in a given range, which is efficient memory wise.
+
+The concept of Threaded Binary trees is simple that they store some useful information in the wasted NULL pointers. In a normal binary tree with n nodes, n+1 NULL pointers waste memory.
+*/
 #include<iostream>
  
 using namespace std;
