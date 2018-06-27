@@ -1,3 +1,11 @@
+/*Approach
+The approach here is to do reverse inorder traversal , and while doing it simply keep a count of number of nodes visited. 
+Until the count of visited nodes is less than equal to K, we keep on adding the current node’s data.
+We use the fact that the reverse inorder traversal of a BST gives us a list which is sorted in decreasing order.
+But the catch is that we are not going to use Recursion or stack/queue based appraoch to do reverse inorder traversal, instead we will make use of 
+Reverse Morris Traversal to do inorder tree traversal, which is a space efficient and faster method to do reverse inorder tree traversal based on threaded binary trees.
+*/
+
 #include<iostream>
 using namespace std;
 
