@@ -1,4 +1,10 @@
-  #include<iostream>
+/*ALGORITHM-
+We have a optimal traversal technique called <a href="https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/" rel="noopener" target="_blank">Morris Traversal</a>
+which is specifically used to do inorder tree traversal without using recursion and stack based implementation in constant extra memory O(1). 
+Morris traversal is based on <a href="https://www.geeksforgeeks.org/threaded-binary-tree/" rel="noopener" target="_blank">Threaded binary trees</a>.
+*/
+
+#include<iostream>
 #include<math.h>
 
 using namespace std;
