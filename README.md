@@ -11,3 +11,7 @@ Articles which have been published on GeeksForGeeks -
 2)Reverse Morris Traversal and Threaded Trees-https://www.geeksforgeeks.org/reverse-morris-traversal-using-threaded-binary-tree/
 
 3)K'th Largest element in Binary Search Tree using O(1) Extra space-https://www.geeksforgeeks.org/kth-largest-element-bst-using-constant-extra-space/.
+
+4)Find Closest element in Binary Search Tree | Space Efficient Method O(1) - https://contribute.geeksforgeeks.org/find-closest-element-in-binary-search-tree-space-efficient-method-o1/
+
+
