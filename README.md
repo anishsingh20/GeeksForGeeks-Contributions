@@ -12,6 +12,8 @@ Articles which have been published on GeeksForGeeks -
 
 3)K'th Largest element in Binary Search Tree using O(1) Extra space-https://www.geeksforgeeks.org/kth-largest-element-bst-using-constant-extra-space/.
 
-4)Find Closest element in Binary Search Tree | Space Efficient Method O(1) - https://contribute.geeksforgeeks.org/find-closest-element-in-binary-search-tree-space-efficient-method-o1/
+4)Find Closest element in Binary Search Tree | Space Efficient Method O(1)-https://www.geeksforgeeks.org/find-the-closest-element-in-binary-search-tree-space-efficient-method/
+
+5)Sum of K largest elements in BST | Space efficient O(1)-https://www.geeksforgeeks.org/sum-of-k-largest-elements-in-bst-using-o1-extra-space/
 
 
