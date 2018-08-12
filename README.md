@@ -18,4 +18,5 @@ Articles which have been published on GeeksForGeeks -
 
 6)Print BST keys in given Range in constant O(1) memory-https://www.geeksforgeeks.org/print-bst-keys-in-given-range-o1-space/added 
 
-7)
+
+7)Smallest number in BST greater than equal to N-In place algorithm-
